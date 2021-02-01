@@ -1,5 +1,4 @@
-# khronos-header
-Khronos Header Mirror/Copy
+# Khronos Header Files Mirror/Copy
 
 This repos stores all header files required by [natus](https://github.com/aconstlink/natus) which uses it as an external submodule.
 
